@@ -1,4 +1,4 @@
-O código disponível nesse repositório foi produzido e retirado do Google Colaboratory, por esse motivo os arquivos que estão sendo lidos no mesmo possuem caminho do Google Drive.
+O código disponível nesse repositório foi produzido e retirado do Google Colaboratory, por esse motivo os arquivos que estão sendo lidos possuem caminho do Google Drive e o código está "fragmentado" em blocos.
 
 # AnimeCom_Clusterization
 Processo de limpeza de base de dados e clusterização, a fim de implementar um sistema de indicação de animes com base na descrição fornecida pelo usuário.
