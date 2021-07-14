@@ -30,4 +30,3 @@ Sum of Squares (WCSS) — método que calcula a quantidade total de clusters atr
 do gráfico  — esse método é conhecido como “método do cotovelo”.
 Em seguida, aplicamos o k-means e recuperamos os rótulos de cada review juntamente com o uid do anime que esse review está se referindo e exportamos os arquivos .pkl para serem
 utilizados no aplicativo Flutter, disponível em: https://github.com/gdias9487/PISI3.
-
